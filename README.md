@@ -12,6 +12,6 @@ Team member : Rahul Raj R
 
 Team member : Abi S R
 
-Servicenow Instance:
+Servicenow Instance:https://dev325405.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=hb46WvPn%2B%3DSB
 
 Demo video link : https://drive.google.com/drive/folders/1TWfbZWJjxtIKv1WLs86OuOUp9kJfUN4z
